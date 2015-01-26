@@ -1,0 +1,85 @@
+@charset "UTF-8";
+
+
+#imgCom
+{
+	width:40px;
+	height:40px;
+}
+#pageTitle{	
+	font-style:oblique;
+}
+#img{
+	float: left;
+	width:300px; 
+	height:220px;
+	padding:10px;
+	margin:10px;
+	border:1px solid rgba(88,88,88,0.25);
+	border-radius:10px;
+	-webkit-box-shadow: 10px 10px 10px -1px rgba(0,0,0,0.29);
+	-moz-box-shadow: 10px 10px 10px -1px rgba(0,0,0,0.29);
+	box-shadow: 10px 10px 10px -1px rgba(0,0,0,0.29);
+	}
+#captial{
+	font-family: 'Tangerine', serif;
+        font-size: 480px;
+}
+#diffTitle{
+	text-align:center;
+}
+body {
+	font-family: 'Cabin Sketch', cursive;
+
+
+	}
+#emotions{
+	width:42px;
+	height:42px;
+	position:relative;
+	top:-300px;
+	margin-left:77%;
+}
+
+#table{
+	background:rgba(38,207,240,0.35);
+	border-radius: 1px;
+	 border-collapse: collapse;
+}
+#oneComment{
+	border:2px dashed rgba(123,123,123,0.18);
+	border-radius:10px;
+	margin-right:20%;
+	margin-bottom:20px;
+	background-color:rgba(118,243,249,0.09);
+}
+#oneEmo{
+	width:25px;
+		height:25px;
+	border:solid 1px #83D4E3;
+	   -webkit-transition: width 0.5s,height 0.5s; /* For Safari 3.1 to 6.0 */
+    transition: width 0.5s,height 0.5s;
+}
+#oneEmo:hover{
+	width:75px;
+	height:75px;
+}
+
+#buttons{
+	margin-left:80%;
+	}
+#editDate{
+	font-family: 'Cabin Sketch', cursive;
+	position:relative;
+	margin-left:80%;
+}
+#cmments
+{
+	border-top:3px solid rgba(0,0,0,0.1);
+}
+.container{
+	margin:20px 20px;
+	align-items:center;
+	}
+/* CSS Document */
+
